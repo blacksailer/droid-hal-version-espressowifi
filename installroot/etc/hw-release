@@ -1,0 +1,11 @@
+# This file is copied as hw-release (analogous to os-release)
+NAME="Samsung Galaxy Tab 2 WiFi"
+ID=espressowifi
+MER_HA_DEVICE=espressowifi
+MER_HA_VENDOR=samsung
+VERSION="0.0.1.1 (armv7hl,unknown)"
+VERSION_ID=0.0.1.1
+PRETTY_NAME="espressowifi 0.0.1.1 (armv7hl,unknown)"
+SAILFISH_BUILD=1
+SAILFISH_FLAVOUR=unknown
+HOME_URL="https://sailfishos.org/"
